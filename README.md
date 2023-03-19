@@ -3,9 +3,11 @@
 ### Instructions to create a model, train, predict Neural Network
 
 Install the required libraries.
-Instructions to create a model: 
-
+Instructions to create a model, use the below command: 
 obj = model(args.num_layers,args.hidden_size,args.optimizer, args.activation,args.weight_init,args.weight_decay, args.epsilon)
+
+To train the model, use the below command:
+obj.train(trainX,trainY,valX, valY, args.batch_size,args.epochs,args.momentum,args.beta,args.beta1,args.beta2,args.learning_rate,1,args.loss)
 
 
 The parameters the model takes in: 
@@ -21,3 +23,4 @@ The parameters the model takes in:
 To add a new activation function:
 
  Create  a function for the activation function and its derivative as the class model and call it in the class as mentioned by a comment.
+ 
