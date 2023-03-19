@@ -1,7 +1,7 @@
 # CS6910 Assignment 1
 ## Author: Akshay Charjan CS22M008
 
-###Report Link: https://wandb.ai/cs22m008/Asg%201%20Final/reports/CS6910-Assignment-1--VmlldzozODI3MTUx?accessToken=l0f5y6q0dc5721qo13nok3hp162voc7xjp0featazzsogeiffm6fxmpg7elyq00r
+### Report Link: https://wandb.ai/cs22m008/Asg%201%20Final/reports/CS6910-Assignment-1--VmlldzozODI3MTUx?accessToken=l0f5y6q0dc5721qo13nok3hp162voc7xjp0featazzsogeiffm6fxmpg7elyq00r
 
 ## Instructions to create a model, train, predict Neural Network
 Install the required libraries.
